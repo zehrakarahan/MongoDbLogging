@@ -1,0 +1,12 @@
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\bin\Debug\net6.0\MongoDbDatabase.deps.json
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\bin\Debug\net6.0\MongoDbDatabase.dll
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\bin\Debug\net6.0\MongoDbDatabase.pdb
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.AssemblyInfoInputs.cache
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.AssemblyInfo.cs
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.dll
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\refint\MongoDbDatabase.dll
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\MongoDbDatabase.pdb
+C:\Users\zehra\source\repos\MongoDbLogging\MongoDbDatabase\obj\Debug\net6.0\ref\MongoDbDatabase.dll

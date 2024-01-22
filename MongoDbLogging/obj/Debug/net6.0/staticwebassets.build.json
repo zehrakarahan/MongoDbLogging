@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DMpctTC4atZbF1YzMB/+4yEQS2ZFTE7QpGbuqxrHdOY=",
+  "Source": "MongoDbLogging",
+  "BasePath": "_content/MongoDbLogging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

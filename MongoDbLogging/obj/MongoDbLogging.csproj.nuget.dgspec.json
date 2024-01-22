@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbLogging\\MongoDbLogging.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj",
+        "projectName": "MongoDbDatabase",
+        "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj",
+        "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zehra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbLogging\\MongoDbLogging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbLogging\\MongoDbLogging.csproj",
+        "projectName": "MongoDbLogging",
+        "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbLogging\\MongoDbLogging.csproj",
+        "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbLogging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zehra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj": {
+                "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj"
+              },
+              "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\MongoDbService.csproj": {
+                "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\MongoDbService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\MongoDbService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\MongoDbService.csproj",
+        "projectName": "MongoDbService",
+        "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\MongoDbService.csproj",
+        "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zehra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj": {
+                "projectPath": "C:\\Users\\zehra\\source\\repos\\MongoDbLogging\\MongoDbDatabase\\MongoDbDatabase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.23.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

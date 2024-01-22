@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbLogging", "MongoDbLogging\MongoDbLogging.csproj", "{89430102-1926-4DFA-84A9-F606CDCED761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbDatabase", "MongoDbDatabase\MongoDbDatabase.csproj", "{B908D0C2-4A36-428C-8D38-EF83A7C6CC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbService", "MongoDbService\MongoDbService.csproj", "{E8DF16F9-3A20-4CAE-B581-8BF4358DA901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89430102-1926-4DFA-84A9-F606CDCED761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89430102-1926-4DFA-84A9-F606CDCED761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89430102-1926-4DFA-84A9-F606CDCED761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89430102-1926-4DFA-84A9-F606CDCED761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B908D0C2-4A36-428C-8D38-EF83A7C6CC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B908D0C2-4A36-428C-8D38-EF83A7C6CC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B908D0C2-4A36-428C-8D38-EF83A7C6CC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B908D0C2-4A36-428C-8D38-EF83A7C6CC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DF16F9-3A20-4CAE-B581-8BF4358DA901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DF16F9-3A20-4CAE-B581-8BF4358DA901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DF16F9-3A20-4CAE-B581-8BF4358DA901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DF16F9-3A20-4CAE-B581-8BF4358DA901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81709BB-9736-45D5-9227-DB753A766862}
+	EndGlobalSection
+EndGlobal
