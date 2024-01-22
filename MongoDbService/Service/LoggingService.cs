@@ -40,6 +40,7 @@ namespace MongoDbService.Service
             await _loggingCollection.ReplaceOneAsync(x => x.Id == id, updatedBook);
 
         public async Task RemoveAsync(string id) =>
+
             await _loggingCollection.DeleteOneAsync(x => x.Id == id);
     }
 }
